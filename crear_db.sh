@@ -4,13 +4,13 @@
 PROJECT_ID="tu-proyecto-gcp"  # Reemplaza con tu ID de proyecto
 
 # Nombre de la instancia de Cloud SQL
-INSTANCE_NAME="tu-instancia-cloudsql" # Reemplaza con el nombre de tu instancia
+INSTANCE_NAME="demosql" # Reemplaza con el nombre de tu instancia
 
 # Usuario de la base de datos
-DB_USER="tu-usuario" # Reemplaza con tu usuario
+DB_USER="root" # Reemplaza con tu usuario
 
 # Contraseña del usuario de la base de datos
-DB_PASSWORD="tu-contraseña" # Reemplaza con tu contraseña
+DB_PASSWORD="Entel12345" # Reemplaza con tu contraseña
 
 # Nombre de la base de datos
 DATABASE_NAME="pedidos_db"
