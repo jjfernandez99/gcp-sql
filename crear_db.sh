@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nombre del proyecto de GCP
-PROJECT_ID="tu-proyecto-gcp"  # Reemplaza con tu ID de proyecto
+PROJECT_ID="gcp6-sql"  # Reemplaza con tu ID de proyecto
 
 # Nombre de la instancia de Cloud SQL
 INSTANCE_NAME="demosql" # Reemplaza con el nombre de tu instancia
